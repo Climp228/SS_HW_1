@@ -12,3 +12,4 @@ C:\Users\climp\source\repos\SS_HW_1\obj\Debug\net8.0\refint\SS_HW_1.dll
 C:\Users\climp\source\repos\SS_HW_1\obj\Debug\net8.0\SS_HW_1.pdb
 C:\Users\climp\source\repos\SS_HW_1\obj\Debug\net8.0\SS_HW_1.genruntimeconfig.cache
 C:\Users\climp\source\repos\SS_HW_1\obj\Debug\net8.0\ref\SS_HW_1.dll
+C:\Users\climp\source\repos\SS_HW_1\obj\Debug\net8.0\SS_HW_1.sourcelink.json

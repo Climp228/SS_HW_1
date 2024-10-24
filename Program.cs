@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            int a;
+            /*int a;
 
             if (int.TryParse(Console.ReadLine(), out a))
             {
@@ -17,7 +17,17 @@
             else
             {
                 Console.WriteLine("Please, enter an integer value");
-            }
+            }*/
+            string name;
+            int age;
+
+            Console.WriteLine("What is your name?");
+            name = Console.ReadLine();
+
+            Console.WriteLine("How old are you, {0}?", name);
+            int.TryParse(Console.ReadLine(), out age);
+
+            Console.WriteLine("Hello {0}, you are {1} years old :)", name, age);
         }
     }
 }
